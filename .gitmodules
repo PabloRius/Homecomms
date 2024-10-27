@@ -1,0 +1,6 @@
+[submodule "packages/backend"]
+	path = packages/backend
+	url = https://github.com/PabloRius/Homecomms_backend.git
+[submodule "packages/frontend"]
+	path = packages/frontend
+	url = https://github.com/PabloRius/Homecomms_frontend.git
